@@ -1,6 +1,22 @@
 [
   {
+    "package": "dhlawrencer",
+    "url": "https://github.com/MHenderson/dhlawrencer"
+  },
+  {
     "package": "funcgeo",
     "url": "https://github.com/MHenderson/funcgeo"
+  },
+  {
+    "package": "thomashardyr",
+    "url": "https://github.com/MHenderson/thomashardyr"
+  },
+  {
+    "package": "todotxt",
+    "url": "https://github.com/MHenderson/todotxt"
+  },
+  {
+    "package": "yesno",
+    "url": "https://github.com/MHenderson/yesno"
   }
 ]
