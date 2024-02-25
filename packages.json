@@ -1,28 +1,8 @@
 [
   {
-    "package": "dhlawrencer",
-    "url": "https://github.com/MHenderson/dhlawrencer"
-  },
-  {
     "package": "funcgeo",
     "url": "https://github.com/MHenderson/funcgeo"
-  },
-  {
-    "package": "minionator",
-    "url": "https://github.com/minion-r/minionator"
-  },
-  {
-    "package": "mopr",
-    "url": "https://github.com/minion-r/mopr"
-  },
-  {
-    "package": "rminion",
-    "url": "https://github.com/minion-r/rminion"
-  },
-  {
-    "package": "thomashardyr",
-    "url": "https://github.com/MHenderson/thomashardyr"
-  },
+  }
   {
     "package": "todotxt",
     "url": "https://github.com/MHenderson/todotxt"
