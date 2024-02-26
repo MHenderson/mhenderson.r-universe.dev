@@ -26,9 +26,5 @@
   {
     "package": "todotxt",
     "url": "https://github.com/MHenderson/todotxt"
-  },
-  {
-    "package": "yesno",
-    "url": "https://github.com/MHenderson/yesno"
   }
 ]
