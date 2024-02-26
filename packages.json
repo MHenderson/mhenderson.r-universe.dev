@@ -8,8 +8,20 @@
     "url": "https://github.com/MHenderson/funcgeo"
   },
   {
+    "package": "minionator",
+    "url": "https://github.com/MHenderson/minionator"
+  },
+  {
+    "package": "mopr",
+    "url": "https://github.com/MHenderson/mopr"
+  },
+  {
     "package": "poetrytools",
     "url": "https://github.com/MHenderson/poetrytools"
+  },
+  {
+    "package": "rminion",
+    "url": "https://github.com/MHenderson/rminion"
   },
   {
     "package": "todotxt",
