@@ -9,6 +9,10 @@
     "branch": "*release"
   },
   {
+    "package": "llinyn",
+    "url": "https://github.com/MHenderson/llinyn"
+  },
+  {
     "package": "minionator",
     "url": "https://github.com/MHenderson/minionator"
   },
