@@ -10,7 +10,8 @@
   },
   {
     "package": "llinyn",
-    "url": "https://github.com/MHenderson/llinyn"
+    "url": "https://github.com/MHenderson/llinyn",
+    "branch": "*release"
   },
   {
     "package": "minionator",
