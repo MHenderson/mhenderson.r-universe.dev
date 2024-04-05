@@ -9,6 +9,11 @@
     "branch": "*release"
   },
   {
+    "package": "keedwell",
+    "url": "https://github.com/MHenderson/keedwell",
+    "branch": "*release"
+  },
+  {
     "package": "llinyn",
     "url": "https://github.com/MHenderson/llinyn",
     "branch": "*release"
