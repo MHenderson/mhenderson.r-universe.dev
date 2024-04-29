@@ -35,6 +35,11 @@
     "url": "https://github.com/MHenderson/rminion"
   },
   {
+    "package": "thomashardyr",
+    "url": "https://github.com/MHenderson/thomashardyr",
+    "branch": "*release"
+  },
+  {
     "package": "todotxt",
     "url": "https://github.com/MHenderson/todotxt"
   }
