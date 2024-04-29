@@ -4,6 +4,11 @@
     "url": "https://github.com/MHenderson/blackmore"
   },
   {
+    "package": "dhlawrencer",
+    "url": "https://github.com/MHenderson/dhlawrencer",
+    "branch": "*release"
+  },
+  {
     "package": "funcgeo",
     "url": "https://github.com/MHenderson/funcgeo",
     "branch": "*release"
