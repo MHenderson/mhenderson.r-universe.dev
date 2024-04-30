@@ -47,5 +47,9 @@
   {
     "package": "todotxt",
     "url": "https://github.com/MHenderson/todotxt"
+  },
+  {
+    "package": "yesorno",
+    "url": "https://github.com/MHenderson/yesorno"
   }
 ]
