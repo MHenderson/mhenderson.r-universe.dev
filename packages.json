@@ -25,11 +25,13 @@
   },
   {
     "package": "minionator",
-    "url": "https://github.com/MHenderson/minionator"
+    "url": "https://github.com/MHenderson/minionator",
+    "branch": "*release"
   },
   {
     "package": "mopr",
-    "url": "https://github.com/MHenderson/mopr"
+    "url": "https://github.com/MHenderson/mopr",
+    "branch": "*release"
   },
   {
     "package": "poetrytools",
