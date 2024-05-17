@@ -39,7 +39,8 @@
   },
   {
     "package": "rminion",
-    "url": "https://github.com/MHenderson/rminion"
+    "url": "https://github.com/MHenderson/rminion",
+    "branch": "*release"
   },
   {
     "package": "thomashardyr",
