@@ -35,7 +35,8 @@
   },
   {
     "package": "poetrytools",
-    "url": "https://github.com/MHenderson/poetrytools"
+    "url": "https://github.com/MHenderson/poetrytools",
+    "branch": "*release"
   },
   {
     "package": "rminion",
@@ -50,6 +51,10 @@
   {
     "package": "todotxt",
     "url": "https://github.com/MHenderson/todotxt"
+  },
+  {
+    "package": "wallis",
+    "url": "https://github.com/MHenderson/wallis"
   },
   {
     "package": "yesorno",
