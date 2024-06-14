@@ -35,8 +35,7 @@
   },
   {
     "package": "poetrytools",
-    "url": "https://github.com/MHenderson/poetrytools",
-    "branch": "*release"
+    "url": "https://github.com/MHenderson/poetrytools"
   },
   {
     "package": "rminion",
