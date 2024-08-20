@@ -53,7 +53,8 @@
   },
   {
     "package": "wallis",
-    "url": "https://github.com/MHenderson/wallis"
+    "url": "https://github.com/MHenderson/wallis",
+    "branch": "*release"
   },
   {
     "package": "yesorno",
