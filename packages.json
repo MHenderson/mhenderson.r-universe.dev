@@ -34,6 +34,10 @@
     "branch": "*release"
   },
   {
+    "package": "pages2df",
+    "url": "https://github.com/MHenderson/pages2df"
+  },
+  {
     "package": "poetrytools",
     "url": "https://github.com/MHenderson/poetrytools"
   },
